@@ -1,0 +1,581 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            42.08052920352698
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            2.9997582114495
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          2.9997582114495,42.08052920352698
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            42.12483986323227
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            3.0021776126165363
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          3.0021776126165363,42.12483986323227
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            42.352436
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            0.183432
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.183432,42.352436
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            40.677921
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            0.227889
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          0.227889,40.677921
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            41.748331
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            1.844053
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.844053,41.748331
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            41.748331
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            1.845053
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.845053,41.748331
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            41.747331
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            1.845053
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.845053,41.747331
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            41.749331
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            1.845053
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.845053,41.749331
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta (agua)">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="idArea al que pertenece el píxel (26 Mayo 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            33
+          </value>
+        </Data>
+		<Data name="idArea al que pertenece el píxel (05 Junio 2017)">
+          <value>
+            2046
+          </value>
+        </Data>
+        <Data name="Número de píxeles en idArea">
+          <value>
+            675
+          </value>
+        </Data>
+		<Data name="Latitud">
+          <value>
+            41.748331
+          </value>
+        </Data>
+        <Data name="Longitud">
+          <value>
+            1.843053
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          1.843053,41.748331
+        </coordinates>
+      </Point>
+    </Placemark>	
+  </Document>
+</kml>
