@@ -3,29 +3,29 @@
   <Document>
     <Placemark>
       <ExtendedData>
-        <Data name="Office">
+        <Data name="Número de archivos en los que el píxel presenta agua">
           <value>
-            holaaaaaaaaaaaaaaaa
+            2
           </value>
         </Data>
-        <Data name="Address1">
+        <Data name="Frecuencia absoluta">
           <value>
-            1600 Amphitheatre Parkway
+            0.5
           </value>
         </Data>
-        <Data name="City">
+        <Data name="Frecuencia relativa Mayo">
           <value>
-            Mountain View
+            1
           </value>
         </Data>
-        <Data name="State">
+        <Data name="Frecuencia relativa Junio">
           <value>
-            CA
+            0
           </value>
         </Data>
-        <Data name="Zip">
+        <Data name="Frecuencia relativa Julio">
           <value>
-            94043
+            0.5
           </value>
         </Data>
         <Data name="Phone">
