@@ -47,7 +47,7 @@
     </Placemark>
     <Placemark>
       <ExtendedData>
-        <Data name="Office">
+        <Data name="Número de archivos en los que el píxel presenta agua">
           <value>
             New York Sales &amp; Engineering Office
           </value>
@@ -85,7 +85,7 @@
       </ExtendedData>
       <Point>
         <coordinates>
-          42.10160383848177,3.000120934299643
+          3.000120934299643,42.10160383848177
         </coordinates>
       </Point>
     </Placemark>
