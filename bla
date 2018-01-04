@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<kml xmlns="http://earth.google.com/kml/2.2">
+  <Document>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            2
+          </value>
+        </Data>
+        <Data name="Frecuencia absoluta">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Mayo">
+          <value>
+            1
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Junio">
+          <value>
+            0
+          </value>
+        </Data>
+        <Data name="Frecuencia relativa Julio">
+          <value>
+            0.5
+          </value>
+        </Data>
+        <Data name="Phone">
+          <value>
+            650-253-0000
+          </value>
+        </Data>
+        <Data name="Fax">
+          <value>
+            650-253-0001
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          2.9997582114495,42.08052920352698
+        </coordinates>
+      </Point>
+    </Placemark>
+    <Placemark>
+      <ExtendedData>
+        <Data name="Número de archivos en los que el píxel presenta agua">
+          <value>
+            New York Sales &amp; Engineering Office
+          </value>
+        </Data>
+        <Data name="Address1">
+          <value>
+            76 Ninth Avenue
+          </value>
+        </Data>
+        <Data name="City">
+          <value>
+            New York
+          </value>
+        </Data>
+        <Data name="State">
+          <value>
+            NY
+          </value>
+        </Data>
+        <Data name="Zip">
+          <value>
+            10011
+          </value>
+        </Data>
+        <Data name="Phone">
+          <value>
+            212-565-0000
+          </value>
+        </Data>
+        <Data name="Fax">
+          <value>
+            212-565-0001
+          </value>
+        </Data>
+      </ExtendedData>
+      <Point>
+        <coordinates>
+          3.000120934299643,42.10160383848177
+        </coordinates>
+      </Point>
+    </Placemark>
+  </Document>
+</kml>
